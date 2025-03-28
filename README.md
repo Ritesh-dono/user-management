@@ -66,7 +66,7 @@ The app will run at `http://localhost:3000/`
 **Demo Credentials:**
 ```
 Email: eve.holt@reqres.in
-Password: password123
+Password: cityslicks
 ```
 
 ---
